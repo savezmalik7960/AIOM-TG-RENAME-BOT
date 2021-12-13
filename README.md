@@ -1,6 +1,6 @@
 # TG-Rename-Bot
-A Better Rename And Convert Bot With Upload Mode Option 
-And Auto Detection !!
+***A Better Rename And Convert Bot With Upload Mode Option 
+And Auto Detection !!***
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -11,7 +11,7 @@ And Auto Detection !!
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #### Deploy To VPS
-* This Is Just A Demo Of Commands To Use
+* ****This Is Just A Demo Of Commands To Use****
 ```
 git clone https://github.com/mrvishal2k2/TG-RenameBot
 virtualenv -p /usr/bin/python3 venv
@@ -45,9 +45,9 @@ log - admin cmd
 * Add Auth System For Private Use 
 
 ### Support:
-* Join AIOM BOTS Channel
-<a href="https://t.me/AIOM_BOTS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-* Join AIOM BOTS Group
-<a href="https://t.me/AIOM_BOTS_GROUP"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+* JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) CHANNEL
+
+* JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) GROUP
 
 ### Thanks To [Bot Dunia](https://t.me/BotDunia) For This Amazing Code
