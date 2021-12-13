@@ -46,8 +46,8 @@ log - admin cmd
 
 ### Support:
 
-* JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) CHANNEL
+* **JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) CHANNEL**
 
-* JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) GROUP
+* **JOIN [AIOM BOTS](https://t.me/AIOM_BOTS) GROUP**
 
 ### Thanks To [Bot Dunia](https://t.me/BotDunia) For This Amazing Code
