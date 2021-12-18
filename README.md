@@ -9,10 +9,6 @@ And Auto Detection !!***
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-#### Deploy To Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fajvadntr%2FAIOM-TG-RENAME-BOT&envs=API_HASH%2CAPP_ID%2CCUSTOM_CAPTION%2COWNER_ID%2COWNER_USERNAME%2CTG_BOT_TOKEN&optionalEnvs=CUSTOM_CAPTION%2COWNER_USERNAME&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&APP_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&CUSTOM_CAPTIONDesc=%28Optional%29+Custom+caption+to+be+added+after+file+name+in+caption&OWNER_IDDesc=Owner+user+id+to+use+for+getting+logs..&OWNER_USERNAMEDesc=%28Optional%29+Owners+username+to+use+at+start+msg+button..&TG_BOT_TOKENDesc=Your+bot+token%2C+Get+it+from+%40Botfather.&referralCode=ajvadntr)
-
 #### Deploy To VPS
 * ****This Is Just A Demo Of Commands To Use****
 ```
