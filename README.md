@@ -7,7 +7,7 @@ And Auto Detection !!***
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-TG-RENAME-BOT)
 
 #### Deploy To VPS
 * ****This Is Just A Demo Of Commands To Use****
