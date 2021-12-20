@@ -5,6 +5,10 @@ And Auto Detection !!***
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
 
+#### Tutorial
+
+ Watch This [Video](https://youtu.be/BSUUya2zXwU) For More Help
+
 #### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ajvadntr/AIOM-TG-RENAME-BOT)
