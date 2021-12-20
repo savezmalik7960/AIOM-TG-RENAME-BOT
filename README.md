@@ -7,7 +7,7 @@ And Auto Detection !!***
 
 #### Tutorial
 
- Watch This [Video](https://youtu.be/BSUUya2zXwU) For More Help
+ **Watch This [Video](https://youtu.be/BSUUya2zXwU) For More Help**
 
 #### Deploy To Heroku
 
