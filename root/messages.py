@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = "**I'm A Rename And Convert Bot\nJust Send Me Any Media To Change File Name.\nUse /help Command For More Details**"
+    START_TEXT = "**I'm A Simple Renamer And Converter Bot With Permanent Thumbnail Support!\n\nSend Me Any Telegram File And Select A Desired Option.\nClick /help for More Details....**"
 ######################
     HELP_USER = """**>>Send File/Video\n>>Select Desired Option\n>>And Done Wait For It To Process Files**"""
     DOWNLOAD_MSG = "**Downloading....**"
