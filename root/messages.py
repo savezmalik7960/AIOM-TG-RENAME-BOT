@@ -1,9 +1,17 @@
 class Translation(object):
-    START_TEXT = "**I'm A Simple Renamer And Converter Bot With Permanent Thumbnail Support!\n\nSend Me Any Telegram File And Select A Desired Option.\n\nClick /help for More Details....**"
+    START_TEXT = """
+**Hᴇʟʟᴏ** 👋 , **♡
+
+Tʜɪꜱ Iꜱ ᴀ Fɪʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ Wɪᴛʜ Fɪʟᴇ Cᴏɴᴠᴇʀᴛᴇʀ Fᴜᴛᴜʀᴇ & Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ
+
+Pʀᴇꜱꜱ /help Bᴜᴛᴛᴏɴ Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ...
+
+Pᴏᴡᴇʀᴇᴅ Bʏ : @AIOM_BOTS**
+"""
 ######################
-    HELP_USER = """**>>Send File/Video\n>>Select Desired Option\n>>And Done Wait For It To Process Files**"""
-    DOWNLOAD_MSG = "**Downloading....**"
-    DOWNLOAD_FAIL_MSG = "**⭕️ Filed To Download File ⭕️**"
-    UPLOAD_MSG = "**Uploading....**"
-    UPLOAD_FAIL_MSG = "**⭕️ Failed To Upload File ⭕️**"
-    UPLOAD_DONE_MSG = "**Uploaded Successfully ✅️"
+    HELP_USER = "**Sᴇʟᴇᴄᴛ Tʜᴇ Dᴇsɪʀᴇᴅ Oᴘᴛɪᴏɴ**"
+    DOWNLOAD_MSG = "**Dᴏᴡɴʟᴏᴀᴅɪɴɢ....**"
+    DOWNLOAD_FAIL_MSG = "**Cᴀɴ'ᴛ Dᴏᴡɴʟᴏᴀᴅ Fɪʟᴇ**"
+    UPLOAD_MSG = "**Uᴘʟᴏᴀᴅɪɴɢ....**"
+    UPLOAD_FAIL_MSG = "**Cᴀɴ'ᴛ Uᴘʟᴏᴀᴅ Fɪʟᴇ**"
+    UPLOAD_DONE_MSG = "**Uᴘʟᴏᴀᴅᴇᴅ Sᴜᴄᴄᴇssꜰᴜʟʟʏ**"
