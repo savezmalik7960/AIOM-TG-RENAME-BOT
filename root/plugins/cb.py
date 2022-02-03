@@ -28,7 +28,7 @@ async def rename_call(c,m):
     pass
   await m.message.delete()
   await c.send_message(
-    text=f"Mode: {mode} \nNow send me new file name without extension",
+    text=f"Nᴏᴡ Sᴇɴᴅ Mᴇ A Nᴇᴡ Fɪʟᴇ Nᴀᴍᴇ Wɪᴛʜᴏᴜᴛ Exᴛᴇɴsɪᴏɴ",
     chat_id=m.message.chat.id,
     reply_to_message_id=m.message.reply_to_message.message_id,
     reply_markup=ForceReply(True)
@@ -63,7 +63,7 @@ async def renamer(c,m,as_file=False):
     extension = "mkv"
   await bot_msg.delete() # delete name asked msg 
   if len(new_f_name) > 64:
-      await m.reply_text(text=f"Limits of telegram file name is 64 charecters only\nReduce some and try again.")
+      await m.reply_text(text=f"Lɪᴍɪᴛs Oꜰ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ Nᴀᴍᴇ Is 64 Cʜᴀʀᴇᴄᴛᴇʀs Oɴʟʏ")
       return
   d_msg = await m.reply_text(Translation.DOWNLOAD_MSG,True)
   d_location = Config.DOWNLOAD_LOCATION + "/" + str(m.chat.id) + "/"
