@@ -77,7 +77,7 @@ async def show_thumbnail(c,m):
 
     if thumb_image_path is None:
         try:
-            await msgg.edit_text("Nᴏ Sᴀᴠᴇᴅ Tʜᴜᴍʙɴᴀɪʟ Fᴏᴜɴᴅ!!)
+            await msgg.edit_text("Nᴏ Sᴀᴠᴇᴅ Tʜᴜᴍʙɴᴀɪʟ Fᴏᴜɴᴅ!!")
         except:
               pass               
     else:
