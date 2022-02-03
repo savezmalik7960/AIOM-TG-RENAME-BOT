@@ -29,7 +29,10 @@ async def help_user(c,m):
 @Client.on_message(filters.command("start"))
 async def start_msg(c,m):
     button = [[
-               InlineKeyboardButton("DEVELOPER", url=f"https://t.me/{Config.OWNER_USERNAME}")
+               InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/AIOM_BOTS_GROUP"),
+               InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url="https://t.me/AIOM_BOTS")
+             ],[
+               InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/ajvadntr/AIOM-TG-RENAME-BOT")
              ]]
     markup = InlineKeyboardMarkup(button) 
     try:
