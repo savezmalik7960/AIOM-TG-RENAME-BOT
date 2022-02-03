@@ -21,6 +21,13 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 @Client.on_message(filters.command("help"))
 async def help_user(c,m):
+    button = [[
+               InlineKeyboardButton("Gʀᴏᴜᴘ", url="https://t.me/AIOM_BOTS_GROUP"),
+               InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url="https://t.me/AIOM_BOTS")
+             ],[
+               InlineKeyboardButton("Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/ajvadntr/AIOM-TG-RENAME-BOT")
+             ]]
+    markup = InlineKeyboardMarkup(button)
     try:
        await m.reply_text(Translation.HELP_USER,quote=True)
     except Exception as e:
